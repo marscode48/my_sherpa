@@ -1,0 +1,153 @@
+@charset "UTF-8";
+/* 共通クラス */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* マージン */
+.mt-md {
+  margin-top: 30px !important;
+}
+@media screen and (min-width: 960px) {
+  .mt-md {
+    margin-top: 60px !important;
+  }
+}
+
+.mt-lg {
+  margin-top: 80px !important;
+}
+@media screen and (min-width: 960px) {
+  .mt-lg {
+    margin-top: 150px !important;
+  }
+}
+
+.mb-sm {
+  margin-bottom: 16px !important;
+}
+
+.mb-md {
+  margin-bottom: 30px !important;
+}
+@media screen and (min-width: 960px) {
+  .mb-md {
+    margin-bottom: 60px !important;
+  }
+}
+
+.mb-lg {
+  margin-bottom: 80px !important;
+}
+@media screen and (min-width: 960px) {
+  .mb-lg {
+    margin-bottom: 150px !important;
+  }
+}
+
+.pt-sm {
+  padding-top: 16px !important;
+}
+
+.pt-md {
+  padding-top: 30px !important;
+}
+@media screen and (min-width: 960px) {
+  .pt-md {
+    padding-top: 60px !important;
+  }
+}
+
+.pt-lg {
+  padding-top: 80px !important;
+}
+@media screen and (min-width: 960px) {
+  .pt-lg {
+    padding-top: 150px !important;
+  }
+}
+
+.pb-sm {
+  padding-bottom: 16px !important;
+}
+
+.pb-md {
+  padding-bottom: 30px !important;
+}
+@media screen and (min-width: 960px) {
+  .pb-md {
+    padding-bottom: 60px !important;
+  }
+}
+
+.pb-lg {
+  padding-bottom: 80px !important;
+}
+@media screen and (min-width: 960px) {
+  .pb-lg {
+    padding-bottom: 150px !important;
+  }
+}
+
+/* フォント */
+.font-sm {
+  font-size: 1.2rem;
+}
+@media screen and (min-width: 960px) {
+  .font-sm {
+    font-size: 1.4rem;
+  }
+}
+
+.font-md {
+  font-size: 1.4rem;
+}
+@media screen and (min-width: 960px) {
+  .font-md {
+    font-size: 1.6rem;
+  }
+}
+
+.font-lr {
+  font-size: 1.8rem;
+}
+@media screen and (min-width: 960px) {
+  .font-lr {
+    font-size: 2.4rem;
+  }
+}
+
+.font-lg {
+  font-size: 2.5rem;
+}
+@media screen and (min-width: 960px) {
+  .font-lg {
+    font-size: 3.6rem;
+  }
+}
+
+/*-------------------------------------------
+ヘッダー
+-------------------------------------------*/
+/*-------------------------------------------
+フッター
+-------------------------------------------*/
+/*# sourceMappingURL=style.css.map */
